@@ -1,6 +1,5 @@
 ### Olá, seja bem-vindo ao meu perfil 👋
 
-- 🌱 Sou estudante de analise e desenvolvimento de sistemas.
 
 <div>
     <a href="https://github.com/Felipe-Bonatto">
